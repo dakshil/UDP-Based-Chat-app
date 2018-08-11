@@ -71,7 +71,7 @@ How to run the various programs
 //compile using gcc wetalkBonus.c -o wetalkBonus.out -lncurses
 2)wetalk.out portno
 //give input address to chat with as:
-?sslab01 20000
+?PC1 20000
 ?192.168.1.1 20000
 where ? is the prompt and there is a space between the address and portnumber. Please use only one space else error of invalid address
 on request, c accepts, n rejects, q quits, other char do nothing.
