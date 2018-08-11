@@ -1,12 +1,12 @@
 /********************************************************           
-    * wetalk.c 			   					               *   
-    *                                                      *   
-    * Author:  Dakshil Shah, shah329                       *   
-    *                                                      *   
-    * CS 536 lab4 Q2							           *   
-    *                                                      *   
-    * Usage:                                               *   
-    *      wetalk.out portno 							   *   
+    * wetalk.c 			   					                 
+    *                                                      
+    * Author:  Dakshil                       
+    *                                                       
+    * CS 536 lab4 Q2							              
+    *                                                      
+    * Usage:                                                 
+    *      wetalk.out portno 							      
     ********************************************************/
     /*
 //give input address to chat with as eg:
