@@ -1,4 +1,4 @@
-e wetalk is invoked with a single command­line
+wetalk is invoked with a single command­line
 argument
 % wetalk my­port­number
 which specifies the port number that wetalk will use to communicate using UDP. When wetalk runs, it will
@@ -63,3 +63,16 @@ be usable.
 should be attempted by those only already familiar with low­level terminal I/O programming) to enhance the
 user interface of wetalk. For example, in Linux, GTK+ may be used build simple interfaces. X Windows with
 varying widget support is a more low­level approach.
+
+
+How to run the various programs
+
+1)wetalkBonus.out portno
+//compile using gcc wetalkBonus.c -o wetalkBonus.out -lncurses
+2)wetalk.out portno
+//give input address to chat with as:
+?sslab01 20000
+?192.168.1.1 20000
+where ? is the prompt and there is a space between the address and portnumber. Please use only one space else error of invalid address
+on request, c accepts, n rejects, q quits, other char do nothing.
+while chatting q ends program and e ends chat 
