@@ -1,7 +1,7 @@
 /********************************************************           
     * wetalkBonus.c 			   			               *   
     *                                                      *   
-    * Author:  Dakshil Shah, shah329                       *   
+    * Author:  Dakshil                      *   
     *                                                      *   
     * CS 536 lab4 Q2							           *   
     *                                                      *   
